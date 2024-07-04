@@ -7,6 +7,34 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+Features:
+
+Asset Management: Add, edit, and delete assets with detailed information including type, brand, and model.
+Employee Management: Manage employee details to assign assets efficiently.
+Assignment Tracking: Assign assets to employees with assignment and deadline dates.
+Condition Monitoring: Track the condition of assets (New, Good, Damaged) over time.
+User-Friendly Interface: A responsive and intuitive UI built with Bootstrap for easy navigation and usage.
+Notifications: Real-time notifications using Toastr for success and error messages.
+Validation: Comprehensive form validation to ensure data integrity.
+Tech Stack:
+
+Backend: PHP, Laravel
+Frontend: HTML, CSS, Bootstrap
+Database: MySQL
+Server: XAMPP
+How to Run:
+
+Clone the repository.
+Set up XAMPP and start Apache and MySQL.
+Create a database in MySQL and configure your .env file.
+Run php artisan migrate to set up the database tables.
+Use php artisan serve to start the Laravel development server.
+Access the application in your browser at http://localhost:8000.
+Contributing:
+Feel free to fork this repository and contribute by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
