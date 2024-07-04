@@ -75,10 +75,6 @@
 ## Screenshots
 
 ![Dashboard](screenshots/dashboard.png)
-*Screenshot of the dashboard showing the list of assigned assets.*
-
-![Add Asset](screenshots/add-asset.png)
-*Screenshot of the form used to add a new asset.*
 
 ## Contributing
 
