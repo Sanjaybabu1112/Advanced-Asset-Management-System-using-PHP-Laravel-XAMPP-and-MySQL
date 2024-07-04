@@ -74,7 +74,9 @@
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard1.png)
+
+![Dashboard](dashboard2.png)
 
 ## Contributing
 
