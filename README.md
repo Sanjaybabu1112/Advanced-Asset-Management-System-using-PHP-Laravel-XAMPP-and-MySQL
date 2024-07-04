@@ -25,8 +25,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/asset-management-system.git
-   cd asset-management-system
+   git clone https://github.com/Sanjaybabu1112/Advanced-Asset-Management-System-using-PHP-Laravel-XAMPP-and-MySQL.git
+   cd project_directory
    ```
 
 2. **Set up XAMPP:**
