@@ -23,6 +23,7 @@ Backend: PHP, Laravel
 Frontend: HTML, CSS, Bootstrap
 Database: MySQL
 Server: XAMPP
+
 How to Run:
 
 Clone the repository.
@@ -31,6 +32,7 @@ Create a database in MySQL and configure your .env file.
 Run php artisan migrate to set up the database tables.
 Use php artisan serve to start the Laravel development server.
 Access the application in your browser at http://localhost:8000.
+
 Contributing:
 Feel free to fork this repository and contribute by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
